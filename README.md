@@ -6,8 +6,8 @@ This project was completed for the course **Analysis of Customer Data**.
 The objective was to analyze customer rating data from the MovieLens dataset and build recommender system models to compare against a baseline.
 
 The project includes two key components:
-1. **Data exploration and descriptive analysis**
-2. **Development, tuning, and evaluation of recommender models**
+1. Data exploration and descriptive analysis
+2. Development, tuning, and evaluation of recommender models
 
 All work was implemented in Python using the **[SurPRISE](http://surpriselib.com/)** package.
 
