@@ -22,3 +22,5 @@ We used the **MovieLens-Ratings.csv** dataset, which contains:
 
 The dataset includes over 27 million ratings and was pre-sorted by `userId` and `movieId`.
 
+# Contribution
+My contribution includes data distribution by timestamp in Part 1, matrix factorization-based method and model comparison in Part 2.
